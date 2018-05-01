@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfWeather.Model.WeatherData">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAAUAACAAAgEAAAAQAGAAAIAAAAAAAAIAAEAgAIBAA=</HashCode>
+      <FileName>Model\WeatherModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfWeather.Model.DisplayData">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Model\DisplayModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
