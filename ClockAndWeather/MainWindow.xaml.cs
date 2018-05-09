@@ -26,7 +26,7 @@ namespace ClockAndWeather
 		public MainWindow()
 		{
 			InitializeComponent();
-			Log.Write("Start application");
+			//Log.Write("Start application");
 
 			//Prepare automated tasks
 			AutoResetEvent autoEvent = new AutoResetEvent(false);
@@ -39,13 +39,13 @@ namespace ClockAndWeather
 
 		private void RefreshButton_Click(object sender, RoutedEventArgs e)
 		{
-			Log.Write("RereshButton_Click()");
+			//Log.Write("RereshButton_Click()");
 			BuildScreenAsync();
 		}
 
 		public static void AutomaticScreen()
 		{
-			Log.Write("AutomacticScreen()");
+			//Log.Write("AutomacticScreen()");
 			AutomaticScreenAsync();
 		}
 
